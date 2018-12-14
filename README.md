@@ -1,2 +1,0 @@
-# apache-configuration-ci
-myci
